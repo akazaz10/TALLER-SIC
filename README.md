@@ -57,13 +57,13 @@ python main.py
 
 **- Para acceder a la vista del Recepcionista:**
 
-*Usuario: Recepcionista*
-*Contraseña: 123456*
+*Usuario: Recepcion* -
+ *Contraseña: 123456*
 
 **- Para acceder a la vista del Mecánico:**
 
-*Usuario: Mecanico*
-*Contraseña: 123456*
+*Usuario: Mecanico* -
+ *Contraseña: 123456*
 
 
 ---
