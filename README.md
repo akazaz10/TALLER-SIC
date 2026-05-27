@@ -81,7 +81,7 @@ Figura 1. Diagrama relacional de la base de datos del sistema SIC.
 
 ## Video explicación
 
-[![Video explicación del sistema SIC](FLET_TALLER-MECANICO.png)](VIDEO-PROYECTO.txt)
+[![Video explicación del sistema SIC](IMAGEN-REFERENCIAL.png)](VIDEO-PROYECTO.txt)
 
 Figura 2. Documento con el enlace al video demostrativo del sistema SIC.
 
